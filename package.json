@@ -4,7 +4,9 @@
   "description": "Node-RED IoT Water Pump Dashboard",
   "main": "index.js",
   "scripts": {
-    "start": "node-red -v -u ."
+  "start": "node server.js"
+}
+
   },
   "dependencies": {
     "node-red": "^3.1.0",
